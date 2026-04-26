@@ -1,0 +1,16 @@
+-------------------------HSMR-OS SETUP NASIL YAPILIR------------------------
+
+1- Arduino IDE uygulaması ile ESP32 kartına klasördeki kodları yükleyin
+(Eski flashların silinmesi önerilir(opsiyonel))
+
+2- HSMR-OS Ağına bağlanın
+
+3- Tarayıcınıza girip üstteki URL çubuğuna 192.168.4.1 yazın
+
+4- Sürümünüze uygun index.html dosyasını tarayıcıya sürükleyip atın veya
+tıklayıp cihazınızdan index.html dosyasını seçin
+
+5- Kullanıcı oluşturun yada admin hesabına (hosmerim passwd:1234) giriş
+yapın
+
+6- Artık ESP-32 cihazınızda HSMR-OS yüklü iyi kullanımlar :)
