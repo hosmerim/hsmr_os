@@ -1,4 +1,4 @@
--------------------------HSMR-OS SETUP NASIL YAPILIR------------------------
+-------------------------HSMR-OS SETUP NASIL KURULUR------------------------
 
 1- Arduino IDE uygulaması ile ESP32 kartına klasördeki kodları yükleyin
 (Eski flashların silinmesi önerilir(opsiyonel))
