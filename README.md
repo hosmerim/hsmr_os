@@ -4,6 +4,7 @@
 
 My fully vibe-coded fake linux distro works on ESP32 board with HTML
 Positives:
+
 -Run fake linux commands (can be listed with "help" command)
 
 -Play games (Pong,snake,tetris,drift,minesweeper)
@@ -21,6 +22,7 @@ Positives:
 -If you find any bugs you can reach us at hsmr.os.support@gmail.com
 
 Negatives:
+
 -Very limited storage (this may vary depending on the ESP32 variant)
 
 -Very limited RAM (this may vary depending on the ESP32 variant)
