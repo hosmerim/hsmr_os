@@ -1,3 +1,4 @@
+<img width="800" height="800" alt="HSMR-OS" src="https://github.com/user-attachments/assets/0a1b3ee7-ad7d-4493-9e7f-898ea3853e91" />
 # hsmr_os
 
 -------------------hsmr_os_pack_791011.zip--------------------
